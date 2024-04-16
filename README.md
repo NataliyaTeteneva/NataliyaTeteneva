@@ -4,7 +4,7 @@
 - I’m currently learning Python, Bioinformatics, Data Science
 - How to reach me:
   - nataliya.teteneva@synmikro.mpi-marburg.mpg.de
-  - natalyateteneva@gmail.com
+  - nataliya.teteneva@gmail.com
 
 <!---
 NataliyaTeteneva/NataliyaTeteneva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
