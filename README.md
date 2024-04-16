@@ -1,5 +1,5 @@
 - Hi, I’m @NataliyaTeteneva
-- I’m a PhD student in Microbiology
+- I’m a Postdoc in Microbiology
 - My primary language is R but I also can write in Python a little bit
 - I’m currently learning Python, Bioinformatics, Data Science
 - How to reach me:
